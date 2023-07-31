@@ -1,0 +1,270 @@
+.a{
+    background-image: url(drew-coffman-1872.jpg);
+    width: 100%;
+    height: 700px;
+}
+.aa{position: fixed;
+    height: 22%;
+    width: 100%;
+
+}
+.aa img{margin-left: 5%;
+    width: 16%;
+    height: 35%;
+    float: left;
+
+}
+.aa ul li{margin-right: 3%;
+
+    list-style: none;
+    float: right;
+}
+.aa ul li a{
+    
+    text-decoration: none;
+    
+    
+   
+    color: white;
+}
+.aaa{
+    padding: 30%
+}
+.aaa h3{
+    margin-left: 35%
+}
+.aaa h1{
+    margin-left: 25%
+}
+.q1{
+    margin-left: 38%
+}
+.a1{
+    padding: 5px 15px;
+    background-color: gray;
+    border: none;
+}
+.aaa button{
+    margin-left: 20%
+}
+
+.a2{
+    background: transparent;
+    padding: 5px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.s{
+
+    width: 90%;
+    margin: 40px 5%;
+    height: 700px;
+}
+.ss{
+    width: 50%;
+   
+    height: 80%;
+  
+    background-image: url(alexandru-stavrica-170390-800x760.jpg);
+    float: left;
+}
+.sss{ width: 50%;
+  
+    height: 80%;
+
+    float: right;
+
+
+}
+.sss ul li{
+    margin: 7%
+}
+.sss p{
+    margin: 12%
+}
+.sss h1{
+    margin: 7% 10%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.v{
+    width: 100%;
+    height: 600px;
+}
+.vv{
+    width: 50%;
+    height: 100%;
+    background-image: url(full-2-800x640.jpg);
+    float: right;
+}
+.vvv{ width: 50%;
+    height: 100%;
+    float: left;
+
+}
+.vvv h1{
+    margin: 5% 20%
+}
+.vvv p{
+    margin: 10%
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.g{
+    width: 100%;
+    height: 600px;
+}
+.gg{
+    width: 100%;
+    height: 30%;
+}
+.ggg{float: left;
+    width: 28%
+    ;
+    height: 70%;
+    margin: 0px 2%;
+}
+.ggg img{
+    width: 100%;
+    height: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.d{
+    width: 100%;
+    height: 600px;
+
+}
+.dd{float: right;
+    width: 50%;
+    height: 100%;
+    background-image: url(full-2-800x640.jpg);
+}
+.ddd{float: right;
+    width: 50%;
+    height: 100%;
+
+
+}
+.ddd h1{
+    margin: 5% 20%
+}
+.ddd p{
+    margin: 5% 5%
+}
+.ddd ul li{
+    margin: 9% 3%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.n{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+
+}
+.nn{float: left;
+    width: 20%;
+    margin-right: 3%;
+    height: 100%;
+}
+.nn h2{
+    color: wheat;
+    margin: 9% 25%
+}
+
+.nn ul li {
+   
+   
+    margin: 6%;
+    text-decoration: none;
+    
+}
+.nn ul li a{list-style-type: none;
+     text-decoration-line: none;
+ color: wheat;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .qwe{
+    height: 400px;
+    width: 100%;
+    background-color: aqua;
+ }
+ .qw{
+    padding-top:17% ;
+     padding-left: 35%
+ }
